@@ -76,7 +76,7 @@
                     "command": "",
                     "default": true,
                     "name": "Django",
-                    "runner": "Django"
+                    "runner": "My Runner"
                 }
             }
         }
